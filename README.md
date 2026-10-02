@@ -1,5 +1,7 @@
 # ico95
 
+![app](img/app.png)
+
 A pixel editor for `.ico` files meant for Windows 95 programs.
 
 ```
